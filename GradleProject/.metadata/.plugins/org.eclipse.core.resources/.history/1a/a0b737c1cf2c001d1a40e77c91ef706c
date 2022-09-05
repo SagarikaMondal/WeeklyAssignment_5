@@ -1,0 +1,5 @@
+package restfullwebusinggradle.repo;
+
+public class Book {
+
+}
